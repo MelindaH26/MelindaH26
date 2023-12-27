@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @MelindaH26
-- 👀 I’m interested in music, gardening, art, gaming, hiking, mountain biking, science and of course ... coding!
-- 🌱 I've been a web dev for 9 years and am currently studying back-end development on Codecademy.
-- 💞️ I’m looking to collaborate on any fun web development projects.
+- 🏖️ I’m interested in music, gardening, art, gaming, hiking, mountain biking, science and of course ... coding!
+- 🌱 I've been a WordPress developer for 9 years and have built a number of custom themes, plugins and worked with APIs. I am currently studying Back-End Engineering on Codecademy with the end goal of becoming a Full-Stack Engineer.
+- 📊 I’m looking to collaborate on any fun web development projects.
 - 📫 How to reach me: hawaiianrobot on Discord.
 
 <!---
