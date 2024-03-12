@@ -1,3 +1,4 @@
+![Header](https://github.com/MelindaH26/MelindaH26/blob/main/msh-branding-github-header.png?raw=true)
 - 🌱 I've been a web developer for the last 9 years with 8+ years of WordPress experience and have built a number of custom themes, plugins and worked with APIs.
 - 👩‍🎓 I am currently studying Back-End Engineering and React on Codecademy with the end goal of becoming a Full-Stack Engineer.
 - 🏖️ My other intrests include music, gardening, art, gaming, hiking, mountain biking and science.
