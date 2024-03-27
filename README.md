@@ -3,7 +3,7 @@
 - 👩‍🎓 I am currently studying Back-End Engineering and React on Codecademy with the end goal of becoming a Full-Stack Engineer.
 - 🏖️ My other intrests include music, gardening, art, gaming, hiking, mountain biking and science.
 - 📊 If you have a fun code project you would and would like to colaberate, let me know!
-- 📫 How to reach me: hawaiianrobot on Discord.
+- 📫 How to reach me: min.huur@gmail.com.
 
 <!---
 MelindaH26/MelindaH26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
